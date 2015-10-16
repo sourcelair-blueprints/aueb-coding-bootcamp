@@ -1,4 +1,4 @@
-# AUEB's 1st Coding Bootcamp
+# AUEB's 1st Coding Bootcamp template
 
 
 ## Instructions
